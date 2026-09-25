@@ -16,7 +16,7 @@ const Profile = lazy(() => import('./pages/Profile'))
 export default function App() {
   return (
     <MotionConfig reducedMotion="user">
-      <BrowserRouter basename="/CampusHub_Prototype2">
+      <BrowserRouter>
         <ScrollToTop />
         <Suspense fallback={<PageLoader />}>
           <Routes>
