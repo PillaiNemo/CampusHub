@@ -1,0 +1,22 @@
+{
+  "fullName": "Namrata Pillai",
+  "preferredName": "Namrata",
+  "avatarInitials": "NP",
+  "avatarUrl": null,
+  "studentId": "HAU-2023-04821",
+  "program": "B.Sc. Computer Science",
+  "faculty": "Faculty of Sciences",
+  "year": "Year 3",
+  "gpa": "3.78",
+  "email": "namrata.pillai@hau.edu",
+  "phone": "+257 79 000 000",
+  "address": "Bujumbura, Burundi",
+  "enrollmentDate": "2023-09-04",
+  "advisor": "Dr. A. Uwimana",
+  "bio": "Computer Science student focused on applied machine learning, human-centered design, and campus digital services.",
+  "preferences": {
+    "emailNotifications": true,
+    "smsNotifications": false,
+    "newsletterOptIn": true
+  }
+}

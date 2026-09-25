@@ -1,0 +1,56 @@
+[
+  {
+    "id": "f1",
+    "name": "Main Auditorium",
+    "category": "Event Space",
+    "capacity": 400,
+    "location": "Central Campus",
+    "image": "gradient-1",
+    "amenities": ["Projector", "Sound System", "Stage Lighting", "AC"]
+  },
+  {
+    "id": "f2",
+    "name": "Innovation Hub — Meeting Room A",
+    "category": "Meeting Room",
+    "capacity": 12,
+    "location": "Block C, 2nd Floor",
+    "image": "gradient-2",
+    "amenities": ["Whiteboard", "TV Screen", "Video Conferencing"]
+  },
+  {
+    "id": "f3",
+    "name": "Rukundo Library — Study Pod 3",
+    "category": "Study Room",
+    "capacity": 6,
+    "location": "Library, East Wing",
+    "image": "gradient-3",
+    "amenities": ["Whiteboard", "Silent Zone", "Power Outlets"]
+  },
+  {
+    "id": "f4",
+    "name": "Main Stadium — Multi-Purpose Court",
+    "category": "Sports Facility",
+    "capacity": 60,
+    "location": "Sports Complex",
+    "image": "gradient-4",
+    "amenities": ["Locker Rooms", "Floodlights", "Equipment Storage"]
+  },
+  {
+    "id": "f5",
+    "name": "Faculty of Business — Case Room",
+    "category": "Classroom",
+    "capacity": 40,
+    "location": "Block A, 1st Floor",
+    "image": "gradient-5",
+    "amenities": ["Projector", "Tiered Seating", "Mic System"]
+  },
+  {
+    "id": "f6",
+    "name": "AI & Data Lab",
+    "category": "Computer Lab",
+    "capacity": 25,
+    "location": "Block C, 3rd Floor",
+    "image": "gradient-6",
+    "amenities": ["GPU Workstations", "Dual Monitors", "AC"]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "s1",
+    "course": "Data Structures & Algorithms",
+    "code": "CS 201",
+    "instructor": "Dr. A. Uwimana",
+    "day": "Monday",
+    "start": "08:00",
+    "end": "09:30",
+    "room": "Block C — Room 204",
+    "type": "Lecture",
+    "faculty": "Sciences"
+  },
+  {
+    "id": "s2",
+    "course": "Microeconomics",
+    "code": "ECON 110",
+    "instructor": "Prof. J. Nkurunziza",
+    "day": "Monday",
+    "start": "10:00",
+    "end": "11:30",
+    "room": "Block A — Room 101",
+    "type": "Lecture",
+    "faculty": "Business"
+  },
+  {
+    "id": "s3",
+    "course": "Human Anatomy Lab",
+    "code": "MED 130",
+    "instructor": "Dr. F. Mukamana",
+    "day": "Tuesday",
+    "start": "09:00",
+    "end": "12:00",
+    "room": "Health Sciences — Lab 2",
+    "type": "Lab",
+    "faculty": "Health Sciences"
+  },
+  {
+    "id": "s4",
+    "course": "Constitutional Law",
+    "code": "LAW 220",
+    "instructor": "Prof. E. Niyonzima",
+    "day": "Tuesday",
+    "start": "13:00",
+    "end": "14:30",
+    "room": "Block B — Room 310",
+    "type": "Seminar",
+    "faculty": "Law"
+  },
+  {
+    "id": "s5",
+    "course": "Database Systems",
+    "code": "CS 305",
+    "instructor": "Dr. A. Uwimana",
+    "day": "Wednesday",
+    "start": "08:00",
+    "end": "09:30",
+    "room": "Block C — Room 206",
+    "type": "Lecture",
+    "faculty": "Sciences"
+  },
+  {
+    "id": "s6",
+    "course": "Organizational Behavior",
+    "code": "BUS 214",
+    "instructor": "Dr. C. Habimana",
+    "day": "Wednesday",
+    "start": "11:00",
+    "end": "12:30",
+    "room": "Block A — Room 105",
+    "type": "Lecture",
+    "faculty": "Business"
+  },
+  {
+    "id": "s7",
+    "course": "Public Health Fundamentals",
+    "code": "MED 101",
+    "instructor": "Dr. F. Mukamana",
+    "day": "Thursday",
+    "start": "10:00",
+    "end": "11:30",
+    "room": "Health Sciences — Room 12",
+    "type": "Lecture",
+    "faculty": "Health Sciences"
+  },
+  {
+    "id": "s8",
+    "course": "Algorithms Tutorial",
+    "code": "CS 201T",
+    "instructor": "T. Iradukunda (TA)",
+    "day": "Thursday",
+    "start": "14:00",
+    "end": "15:00",
+    "room": "Block C — Room 108",
+    "type": "Tutorial",
+    "faculty": "Sciences"
+  },
+  {
+    "id": "s9",
+    "course": "International Relations",
+    "code": "LAW 240",
+    "instructor": "Prof. E. Niyonzima",
+    "day": "Friday",
+    "start": "09:00",
+    "end": "10:30",
+    "room": "Block B — Room 302",
+    "type": "Lecture",
+    "faculty": "Law"
+  },
+  {
+    "id": "s10",
+    "course": "Financial Accounting",
+    "code": "BUS 150",
+    "instructor": "Dr. C. Habimana",
+    "day": "Friday",
+    "start": "11:00",
+    "end": "12:30",
+    "room": "Block A — Room 110",
+    "type": "Lecture",
+    "faculty": "Business"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "n1",
+    "title": "Hope Africa University Ranks Top 5 in Regional Innovation Index",
+    "excerpt": "HAU's research output on sustainable agriculture and digital health earned it a top-five spot among East African universities this year.",
+    "category": "Achievement",
+    "author": "Office of Communications",
+    "date": "2026-07-14",
+    "readTime": "4 min read",
+    "image": "gradient-1",
+    "featured": true
+  },
+  {
+    "id": "n2",
+    "title": "New Library Wing Opens with 24/7 Study Access",
+    "excerpt": "The Rukundo Library extension adds 300 new study seats, silent pods, and round-the-clock access for finals season.",
+    "category": "Campus Life",
+    "author": "Facilities Team",
+    "date": "2026-07-10",
+    "readTime": "3 min read",
+    "image": "gradient-2",
+    "featured": false
+  },
+  {
+    "id": "n3",
+    "title": "Semester Two Registration Opens Monday",
+    "excerpt": "Students can now register for Semester Two courses through the student portal. Advising slots fill quickly — book early.",
+    "category": "Academics",
+    "author": "Registrar's Office",
+    "date": "2026-07-18",
+    "readTime": "2 min read",
+    "image": "gradient-3",
+    "featured": false
+  },
+  {
+    "id": "n4",
+    "title": "Career Fair 2026: 40+ Employers Confirmed",
+    "excerpt": "This year's annual career fair brings employers from tech, health, and NGO sectors to campus for on-site interviews.",
+    "category": "Careers",
+    "author": "Career Services",
+    "date": "2026-07-16",
+    "readTime": "3 min read",
+    "image": "gradient-4",
+    "featured": false
+  },
+  {
+    "id": "n5",
+    "title": "Student Union Elections: Candidate Nominations Open",
+    "excerpt": "Nominations for the 2026/27 Student Union executive board are now open. Submit your candidacy before the deadline.",
+    "category": "Student Life",
+    "author": "Student Union",
+    "date": "2026-07-12",
+    "readTime": "2 min read",
+    "image": "gradient-5",
+    "featured": false
+  },
+  {
+    "id": "n6",
+    "title": "Faculty of Sciences Launches AI & Data Lab",
+    "excerpt": "A new interdisciplinary lab will support undergraduate and graduate research in applied machine learning.",
+    "category": "Academics",
+    "author": "Faculty of Sciences",
+    "date": "2026-07-08",
+    "readTime": "5 min read",
+    "image": "gradient-6",
+    "featured": false
+  },
+  {
+    "id": "n7",
+    "title": "Campus Health Center Extends Weekend Hours",
+    "excerpt": "In response to student feedback, the health center will now be open Saturdays from 9am to 3pm.",
+    "category": "Campus Life",
+    "author": "Health Services",
+    "date": "2026-07-05",
+    "readTime": "2 min read",
+    "image": "gradient-2",
+    "featured": false
+  },
+  {
+    "id": "n8",
+    "title": "Interfaculty Sports Week Kicks Off This Weekend",
+    "excerpt": "Six faculties compete across football, basketball, and athletics. Opening ceremony starts Saturday at the main stadium.",
+    "category": "Sports",
+    "author": "Sports Council",
+    "date": "2026-07-11",
+    "readTime": "3 min read",
+    "image": "gradient-4",
+    "featured": false
+  }
+]

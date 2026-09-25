@@ -1,0 +1,28 @@
+{
+  "student": {
+    "name": "Namrata",
+    "program": "B.Sc. Computer Science",
+    "year": "Year 3",
+    "gpa": "3.78",
+    "avatarInitials": "NP"
+  },
+  "stats": [
+    { "id": "st1", "label": "Enrolled Credits", "value": "18", "unit": "credits", "trend": "+2 vs last term", "icon": "book" },
+    { "id": "st2", "label": "Current GPA", "value": "3.78", "unit": "/ 4.0", "trend": "+0.12 vs last term", "icon": "chart" },
+    { "id": "st3", "label": "Attendance", "value": "96", "unit": "%", "trend": "Excellent standing", "icon": "check" },
+    { "id": "st4", "label": "Open Requests", "value": "2", "unit": "pending", "trend": "1 booking, 1 feedback", "icon": "clock" }
+  ],
+  "upcomingEvents": [
+    { "id": "e1", "title": "Database Systems — Midterm", "date": "2026-07-24", "time": "09:00", "type": "Exam" },
+    { "id": "e2", "title": "Career Fair 2026", "date": "2026-07-25", "time": "10:00", "type": "Event" },
+    { "id": "e3", "title": "Facility Booking — Study Pod 3", "date": "2026-07-23", "time": "16:00", "type": "Booking" },
+    { "id": "e4", "title": "Advising Session with Dr. Uwimana", "date": "2026-07-28", "time": "13:30", "type": "Meeting" }
+  ],
+  "quickActions": [
+    { "id": "qa1", "label": "Book a Facility", "to": "/booking", "icon": "calendar" },
+    { "id": "qa2", "label": "Submit Feedback", "to": "/feedback", "icon": "message" },
+    { "id": "qa3", "label": "View Schedule", "to": "/schedule", "icon": "clock" },
+    { "id": "qa4", "label": "Read News", "to": "/news", "icon": "newspaper" },
+    { "id": "qa5", "label": "View Profile", "to": "/profile", "icon": "user" }
+  ]
+}
